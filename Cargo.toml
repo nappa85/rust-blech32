@@ -1,0 +1,18 @@
+[package]
+name = "blech32"
+version = "0.8.1"
+authors = ["Marco Napetti"]
+repository = "https://github.com/nappa85/rust-blech32"
+description = "Encodes and decodes the Blech32 format"
+readme = "README.md"
+keywords = ["base32", "encoding", "blech32"]
+categories = ["encoding"]
+license = "MIT"
+
+[features]
+default = ["std"]
+std = []
+# Only for CI to make all warnings errors, do not activate otherwise (may break forward compatibility)
+strict = []
+
+[dependencies]
