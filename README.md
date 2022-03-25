@@ -1,6 +1,6 @@
 # Blech32 Rust
 [![Docs.rs badge](https://docs.rs/blech32/badge.svg)](https://docs.rs/blech32/)
-[![Continuous Integration](https://github.com/nappa85/blech32/workflows/Continuous%20Integration/badge.svg)](https://github.com/nappa85/blech32/actions?query=workflow%3A%22Continuous+Integration%22)
+[![Continuous Integration](https://github.com/nappa85/rust-blech32/workflows/Continuous%20Integration/badge.svg)](https://github.com/nappa85/rust-blech32/actions?query=workflow%3A%22Continuous+Integration%22)
 
 Fork of Bitcoin's `bech32` crate to cover Blech32's differences.
 
